@@ -36,19 +36,18 @@ L’expérience utilisateur (UX) commence avant la visite du site (Visibilité),
 
 - Ces règles sont réalistes, universelles et vérifiables
 - Les règles d’assurance qualité web découlant de ce modèle ont été produites dans le cadre d’ateliers réunissant des professionnels de tous ces différents aspects.
-- Opquast propose une liste de 240 règles documentées. La check-list est disponible publiquement en trois langues.
+- Opquast propose une liste de 240 règles documentées. La [check-list](https://training.certified.opquast.com/fr-v4/glossaire/check-list/) est disponible publiquement en trois langues.
 
 ## Notes 
 
 - Pour mémoriser VPTCS, nous vous conseillons l’expression Va Pas Te Croire Supérieur.
 - La check-list de règles Opquast vous permet d’aborder l’ensemble des exigences utilisateurs du modèle VPTCS.
-- Vous pouvez écouter l’interview vidéo de Elie Sloïm qui présente le modèle VPTCS.
-- Le modèle VPTCS a fait l’objet d’une conférence à Paris Web.
+- Le modèle VPTCS a fait l’objet d’une [conférence à Paris Web](https://vimeo.com/375098512).
 
 ## Quelques termes clés
 
 - Approche transversale
--Contenus
+- Contenus
 - Exigences génériques
 - Identification
 - Perception
@@ -60,7 +59,7 @@ L’expérience utilisateur (UX) commence avant la visite du site (Visibilité),
 - Visibilité
 - VPTCS
 
-## Transcription vidéo
+## Transcription de la vidéo
 
 Dans cette vidéo, je vais vous présenter les fondements de la qualité web et les bonnes pratiques Opquast.
 

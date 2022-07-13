@@ -1,5 +1,7 @@
 # Guide de certification
 
+## Transcription de la vidéo
+
 Dans le cadre de cette formation, vous avez accès à un document qui est très important, qui s’appelle le guide de certification. Il va vous servir tout au long de la formation. Il fait à peu près 200 pages.
 Alors vous n’êtes pas obligé d’en connaître chaque virgule mais c’est intéressant que vous sachiez ce qu’il y a dedans et surtout que vous puissiez y faire référence, lorsqu’il y a des éléments que vous ne connaissez pas ou que vous ne comprenez pas.
 
