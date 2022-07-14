@@ -1,5 +1,7 @@
 # Le glossaire et son importance
 
+## Transcription de la vidéo
+
 Avez-vous essayé de travailler, échanger, vivre dans un pays étranger sans en connaître la langue ?
 Pas facile, n’est-ce pas ? Si vous avez un peu de chance, vous allez pouvoir demander à vos interlocuteurs de parler votre langue, de s’adapter au fait que vous ne parliez pas vous-même leur langue.
 Toutes proportions gardées, le monde professionnel fonctionne de la même façon. Lorsque vous intégrez une équipe Web ou participez à des projets, vous devez passer beaucoup de temps à échanger avec d’autres professionnels.
