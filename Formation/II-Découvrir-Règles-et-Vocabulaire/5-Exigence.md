@@ -19,7 +19,7 @@ Nous savons vous dire ceci :
 - Nous avons pu en déduire une liste de 240 bonnes pratiques, c’est le référentiel de bonnes pratiques accompagnées d’objectifs et de contextes utilisateurs.
 - Les termes contenus dans les référentiels précédents permettent de déduire un dernier référentiel, un référentiel de vocabulaire, c’est à dire le glossaire.
 
-Nous avons donc ces référentiels à notre disposition qui sont nos outils objectifs. Ils doivent être inattaquables. Ils doivent être appropriés. Ils doivent pouvoir être appelés à tout moment lorsque vous avez besoin d’une référence, d’un tiers, d’une protection, d’un avis objectif. Votre avis sur le site est une chose parfaitement respectable mais qui dépend de votre expérience et de votre crédibilité. Comme la mienne, ces deux notions ne suffiront pas à faire de votre avis un élément absolu à prendre en compte.
+Nous avons donc ces référentiels à notre disposition qui sont ***nos outils objectifs***. Ils doivent être ***inattaquables***. Ils doivent être ***appropriés***. Ils doivent pouvoir être appelés à tout moment lorsque vous avez besoin ***d’une référence, d’un tiers, d’une protection, d’un avis objectif***. Votre avis sur le site est une chose parfaitement respectable mais qui dépend de votre expérience et de votre crédibilité. Comme la mienne, ces deux notions ne suffiront pas à faire de votre avis un élément absolu à prendre en compte.
 
 > Voilà, je suis certifié Expert Opquast. Je suis passé par toutes les étapes du deuil, de « pfff je vois pas à quoi ça va me servir » à « non mais n’importe quoi c’est abusé ces questions » à « ah mais en fait c’est trop bien il faut absolument que tous mes clients la passent ».
 — HTeuMeuLeu (@HTeuMeuLeu) Novembre 2020
@@ -32,7 +32,7 @@ L’objectif prioritaire, c’est l’appropriation des référentiels. Le prix 
 
 Les questions paraissent complexes et demandent de réfléchir ? Certaines questions similaires reviennent et la réponse devient un réflexe ? Les termes comptent et sont précis ? Oui, et maintenant vous savez pourquoi.
 
-Quelques termes clés :
+## Quelques termes clés :
 
 - Accessibilité
 - Check-list
