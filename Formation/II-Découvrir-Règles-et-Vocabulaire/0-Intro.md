@@ -1,3 +1,5 @@
+# II. Découvrir les règles et comprendre le vocabulaire
+
 # Intro
 
 Terme clé :
