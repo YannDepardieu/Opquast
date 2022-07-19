@@ -5,12 +5,12 @@ La qualité d’un site dépend de sa capacité à répondre aux attentes de ses
 ## Phases
 
 Ce modèle se lit dans l'ordre chronologique des 3 grandes phases de la visite
-1. *Avant* => ***Visibilité*** : cette phase représente ce qui se passe avant que l’utilisateur, n’arrive sur le site web.
-2. *Pendant* : Cette phase correspondant au passage sur l’interface =>  
+1. **`Avant`** => ***Visibilité*** : cette phase représente ce qui se passe avant que l’utilisateur, n’arrive sur le site web.
+2. **`Pendant`** : Cette phase correspondant au passage sur l’interface =>  
     - ***Perception*** : tous les aspects ergonomiques, design, graphisme.
     - ***Technique*** : la sécurité, la performance, la robustesse, la qualité du code.
     - ***Contenus*** : la qualité intrinsèque des Contenus, et donc par exemple, tout ce qui concerne la pertinence, la fraîcheur, les sources, tous les aspects liés à la confiance, l’orthographe.
-3. *Après* => ***Services*** : Tout ce qui se passe après l’interface.
+3. **`Après`** => ***Services*** : Tout ce qui se passe après l’interface.
 
 ## Métiers associés
 
