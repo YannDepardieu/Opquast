@@ -1,6 +1,39 @@
-# Quiz
+# Quizs - Questions spéciales
 
-## Quiz 1
+## I - Plongeon
+
+### Quiz 1
+
+- Pour définir la qualité Web, on retient ici une approche centrée sur l’expérience utilisateur. Le modèle VPTCS est un modèle qui repose sur l’expérience utilisateur. Les autres sujets sont évidemment importants mais ce n’est pas là-dessus que porte le modèle.
+- La valeur d’un site ou d’un service, qui motive ses visiteurs, dépend avant tout des contenus et des services qu’il propose. Les utilisateurs viennent soit pour des contenus, soit pour des services et la plupart du temps, pour les deux.
+- La politique de confidentialité des données personnelles concerne les contenus et les services, pas la sécurité
+- La technique comprend : 
+    - L'adaptation du site au mobiles
+    - La vitesse d'affichage des pages
+
+### Quiz 2
+
+- On appelle lecteur d’écran un logiciel de synthèse vocale qui restitue oralement le contenu de la page et permet d’interagir avec celle-ci. Un lecteur d’écran est un logiciel de synthèse vocale qui lit le contenu d’un écran. Il en existe de très nombreux, comme JAWS, NVDA, VoiceOver, natif sous mac ou le narrateur, natif sous Windows. Au passage un lecteur d’écran n’est pas un monsieur qui lit un écran. Enfin oui, mais non.
+- Une loupe d’écran permet d’agrandir le contenu affiché, voire d’en adapter les couleurs.
+- La démarche Opquast se penche prioritairement sur :
+    - Les robots d’indexation du contenu : VRAI
+    - Les utilisateurs humains : VRAI
+    - Les logiciels d’aide aux personnes en situation de handicap : VRAI
+    - Les outils de traductions automatiques : VRAI
+    - Les outils d’analyse de performance : ***FAUX*** : Ils sont importants mais ce n’est pas notre priorité dans l’assurance qualité Web. La priorité c’est la qualité pour les utilisateurs et les machines qu’ils utilisent.
+- La démarche qualité vise essentiellement l’ensemble des contextes d’usages d’un site. Nous ne savons pas ce qui se passe de l’autre côté de l’écran, autant l’accepter et essayer d’anticiper un maximum de contextes d’usage.
+- La démarche qualité repose sur la prise en compte du plus grand nombre possible de contextes d’usages.L’objectif est de considérer que les utilisateurs sont dans une infinité de contextes d’usages, ils ont des problèmes, des équipements, des compétences différentes. Ils ont des soucis, des envies, des connexions différentes. L’objectif de l’approche assurance qualité Web est de prendre un maximum de ces contextes d’usage.
+
+## III - Connaître les Règles et Objectifs
+
+- Toutes les pages doivent utiliser le protocole HTTPS…
+    - Pour sécuriser toutes les ressources.
+    - Pour éviter les alertes des navigateurs relatives aux pages non sécurisées.
+    - Pour garantir la sécurité des connexions aux espaces privés.
+
+## IV - Mise en Oeuvre
+
+### Quiz 1
 
 - Effets des CMS sur la qualité Web… :
     - Industrialisation.
@@ -47,7 +80,7 @@
 
 - Définition : Focus clavier : Manifestation visuelle de la prise de focus d’un contenu interactif (lien, contrôle ou au champ de formulaire, etc.) lors de la navigation au clavier.
 
-# Quiz 2
+### Quiz 2
 
 - Je travaille au sein du service juridique de l’entreprise publiant le site… Il est bon que je connaisse les bonnes pratiques, mais cela ne me dispense pas de vérifier les exigences légales.
 
@@ -104,7 +137,7 @@
     - Web Content Accessibility Guidelines (WCAG).
     - HTML 5, A vocabulary and associated APIs for HTML and XHTML.
 
-# Quiz 3
+### Quiz 3
 
 - Le contrôle qualité intervient tout au long du processus de conception du site, de la définition du cahier des charges jusqu’à la mise en production, et se poursuit de manière continue après celle-ci lors de la publication de nouveaux contenus.
 
@@ -114,3 +147,12 @@
     - À la cohérence de la charte graphique sur l’ensemble des pages du site.
     - À la qualité de contraste et de lisibilité des pages du site sur un écran dans des conditions diverses.
 
+- Le plan de site reste a priori nécessaire même dans le cas d’un mini-site événementiel ou site-vitrine ayant un très petit nombre de pages, dès que toutes les pages internes ne sont pas directement accessibles depuis l’accueil.
+
+- En tant qu’utilisateur, lorsque j’arrive sur une page d’erreur personnalisée (par exemple, une erreur 404) qui comporte le menu principal de navigation… Cela me permet de reprendre la navigation directement
+
+- Le moyen le plus recommandé pour l’intégration des objectifs qualité dans un cahier des charges est :  Intégrer dans le cahier des charges un ensemble choisi de règles qualité précisant les exigences fonctionnelles.
+
+- Le V de « Visibilité » dans le modèle VPTCS de la qualité Web correspond notamment… :
+    - À la communication à propos du site, par exemple, par voie d’affichage dans le métro.
+    - Au référencement du site (SEO).
