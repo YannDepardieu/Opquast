@@ -156,3 +156,4 @@
 - Le V de « Visibilité » dans le modèle VPTCS de la qualité Web correspond notamment… :
     - À la communication à propos du site, par exemple, par voie d’affichage dans le métro.
     - Au référencement du site (SEO).
+
