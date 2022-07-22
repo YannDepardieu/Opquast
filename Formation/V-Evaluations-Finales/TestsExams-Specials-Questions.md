@@ -96,3 +96,56 @@
 - L’information n’est pas véhiculée uniquement par la couleur » a pour conséquence… De veiller à ce qu’un moyen complémentaire soit systématiquement utilisé en renfort de la couleur.
 
 - Concepteur d’un nouveau service en ligne, je vais parier sur les effets de ruptures et séduire en étant original… Une large part des bonnes pratiques sont applicables dans mon cas comme pour tout autre type de projet, même si je choisis d’en ignorer certaines en connaissance de cause.
+
+- Cochez les phrases exactes concernant le nombre de moyens de contact… 
+    - Offrir plusieurs moyens de contact favorise la confiance en garantissant à l’utilisateur la possibilité d’un recours en cas de difficultés.
+    - Offrir plusieurs moyens de contact permet d’éviter de mettre l’utilisateur en difficulté en cas d’indisponibilité ou de problèmes d’utilisation.
+    - Offrir plusieurs moyens de contact permet d’optimiser les possibilités de retour d’information de la part des utilisateurs.
+
+- 2 affirmations correspondant à un effet significatif des CMS sur la qualité Web… 
+    - Délégation technique.
+    - Industrialisation.
+
+- La proposition de bonne pratique « Le site affiche pour chaque page un bouton Ajouter aux signets (favoris) du navigateur » est-elle vraiment utile… Non, c’est un doublon d’une fonction native des navigateurs, bien connue des utilisateurs.
+
+- Les bonnes pratiques Opquast sont universelles au sens où… Elles sont neutres quant aux spécificités locales, par exemple les législations nationales.
+
+- les expressions qui peuvent caractériser la démarche de qualité Web… 
+    - La transformation d’exigences génériques en critères objectifs.
+    - L’approche transversale à travers les différents métiers.
+
+- notion de « handicap »… : Le handicap est la perte ou la restriction de participer à la vie de la collectivité à égalité avec les autres.
+
+- 2 bonnes pratiques évaluables lors de la validation éditoriale… 
+    - Le titre de chaque page permet d’identifier son contenu.
+    - Le site n’interdit pas la mise en place de liens entrants.
+
+- Dans quel cas la bonne pratique « Le site fournit aux utilisateurs la possibilité de connaître les nouveaux contenus ou services » est-elle utile… Cette bonne pratique vise tous les contenus ou services : identifier les nouveautés est une attente courante des utilisateurs.
+
+- Le « S » de Services dans le modèle VPTCS de la qualité Web correspond notamment… 
+    - À la gestion de la logistique d’expédition des produits matériels dans le cas d’une boutique en ligne.
+    - Au déroulement du processus de commande dans un site e-commerce.
+
+- Le référentiel des bonnes pratiques Opquast est d’abord et avant tout destiné… À la mesure des risques de non-qualité et à l’amélioration continue.
+
+- Après avoir validé ma commande sur une boutique en ligne, les bonnes pratiques Opquast demandent que… 
+    - Je reçoive un mail me rappelant la référence de la transaction et les données de la commande.
+    - Le site m’affiche la référence de la transaction.
+
+- La bonne pratique « Les champs de formulaires doivent être associés visuellement à leurs étiquettes » est essentielle pour… Les malvoyants qui naviguent avec un zoom d’écran ainsi que les utilisateurs de tablettes ou de mobiles qui recourent à un fort agrandissement.
+
+- Le site m’indique si je peux réutiliser les contenus et sous quelles conditions… Sur un espace disponible depuis toutes les pages.
+
+- Responsable Qualité d’un site d’actualités, j’ai lu sur 02net.com qu’une des tendances est le flat-design… Les choix de mode en matière de design ne sont pas du ressort de la démarche qualité Opquast.
+
+- 2 phrases qui expliquent pourquoi certaines bonnes pratiques ne peuvent pas être testées automatiquement…:
+    - Un robot logiciel ne peut pas évaluer des questions de pertinence d’un contenu textuel.
+    - Seule la présence d’éléments de code est vérifiable automatiquement.
+
+- Je suis designer Web : les bonnes pratiques me concernent-elles… Oui : je dois veiller à mes choix graphiques et à leurs conséquences sur la réalisation technique.
+
+- Pour être utile, une démarche qualité doit… Être menée en continu depuis le démarrage du processus de conception.
+
+- Pour le référenceur (SEO), les bonnes pratiques sur l’usage du balisage HTML… Correspondent aux bases du référencement naturel.
+
+- La bonne pratique « Le site propose un fichier sitemap indiquant les contenus à explorer » vise… La présence du fichier sitemap.xml.
