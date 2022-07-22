@@ -1,4 +1,6 @@
-# Tests - Questions spéciales
+# Questions spéciales
+
+## Test Récaptitulatif
 
 - Si les champs de saisie qui le permettent sont dotés du type approprié… 
     - C’est une aide pour la gestion des erreurs de saisie.
@@ -25,3 +27,72 @@
     - L’identité de l’organisme concerné.
 
 - Je dois toujours avoir la possibilité de fermer mon compte ouvert en ligne ... Par l’intermédiaire du site.
+
+## Examen Blanc avec corrigé
+
+- Le site ne comporte pas de publicités »… N’est pas une bonne pratique (ce ne serait ni utile ni consensuel ni réaliste).
+
+- Le site s’ajoute automatiquement aux favoris (ou signets) » est utile… Non, c’est à moi de décider si je veux mettre une page en favori ou pas.
+
+- La bonne pratique concernant la validité des hyperliens concerne seulement les liens internes, pourquoi… Parce qu’il est impossible de garantir le fonctionnement d’un lien externe.
+
+- Je suis expert SEO : les bonnes pratiques me concernent-elles… Oui : certaines bonnes pratiques relèvent des bases du référencement naturel et doivent être prises en compte le plus tôt possible dans le projet.
+
+- affirmation exacte à propos de la notion d’Ajax… Ajax désigne une utilisation de JavaScript permettant d’optimiser la gestion des contenus dynamiques et en évitant le rechargement complet de la page à chaque interaction.
+
+- La formulation « Le site propose une application mobile équivalente » est-elle une bonne pratique qualité… Non : ce n’est pas consensuel ; ce n’est pas universel ; ce n’est pas nécessairement utile.
+
+- Je suis responsable d’un site exclusivement en langue française. Pour moi, les bonnes pratiques d’internationalisation… Sont applicables et utiles.
+
+- Qu'est-ce qu'un lien d’accès rapide… Des liens placés en début de page, donnant accès aux zones de contenu, de menu ou de recherche.
+
+- Pour le propriétaire d’un site, le déclenchement automatique des sons, vidéos et animations au chargement de la page Web… Est une mauvaise pratique : il faut laisser à l’utilisateur le contrôle de l’interface sonore et visuelle lors de la consultation du site, et ne pas le surprendre avec la diffusion inattendue d’un contenu audio.
+> La frontière peut être ténue entre le souci d’accélérer l’accès à l’information et le risque d’empiéter sur le besoin utilisateur de rester maître de sa navigation. Mais ici, le démarrage automatique d’un contenu multimédia est fréquemment vécu comme intrusif par les utilisateurs.
+
+- un captcha… 
+    - Une question sous forme graphique ou logique, destinée à déjouer les robots et les outils de spam.
+    - Un ensemble d’images à identifier (théières, chaussures, animaux, etc.) destiné à déjouer les robots et les outils de spam
+
+- Je suis chef de projet Web. Mon travail en matière de qualité consiste d’abord et avant tout… À veiller tout au long du projet à l’utilisation du référentiel qualité, en favorisant son appropriation par les différents intervenants métiers.
+
+- De quoi parle une bonne pratique Opquast qui évoque le ratio de contraste… La mesure du niveau de contraste et de luminosité du texte par rapport à son arrière-plan.
+
+- Pour la réalisation d’un site présentant une collection de photographies, je dois… Ne pas chercher à adapter la taille de la fenêtre du navigateur aux dimensions des images.
+
+- L’objectif des cookies et les limitations inhérentes à leurs refus sont expliqués ». Laquelle de ces phrases est exacte… L’utilisateur doit être avisé des informations qui sont écrites par un site Web sur son poste informatique.
+
+- Qu’est-ce qu’un CMS… : Une application serveur utilisée via une interface en ligne, qui permet à une équipe éditoriale de concevoir un site Web et d’en créer le contenu.
+
+- Lorsque je m’inscris à une newsletter, après avoir validé le formulaire d’inscription, le site doit… Afficher une page m’informant qu’un mail de demande de confirmation a été envoyé à l’adresse que j’ai indiquée.
+
+- les 2 bonnes pratiques évaluables lors de la validation d’une maquette fonctionnelle (wireframe, mockup, prototype, etc.)… 
+    - La modification de la quantité de chaque article, l’ajout et la suppression d’un ou plusieurs articles restent possibles avant la validation définitive de la commande.
+    - L’étape en cours d’un processus complexe est indiquée.
+
+- Je suis intégrateur Web. Les bonnes pratiques me concernent-elles… Oui, en raison de mes décisions techniques lors de la création des gabarits de pages.
+
+- La bonne pratique « Le site est intégralement utilisable au clavier » vise… Tous les sites, indépendamment du media, car elle permet de vérifier que la navigation ne dépend pas du périphérique utilisé.
+
+- 2 phrases concernant la métadonnée indiquant le jeu de caractères dans le code HTML de la page… 
+    - L’indication de la métadonnée sur le jeu de caractères prévient le risque de problèmes d’affichage de caractères lié à un fonctionnement parfois hasardeux des mécanismes de rattrapage des navigateurs quand ils ne disposent pas de l’information nécessaire via l’entête HTTP content-type.
+    - L’indication de la métadonnée sur le jeu de caractères permet un affichage hors-ligne correct des pages.
+
+- Si certaines bonnes pratiques qualité peuvent paraître relever de l’évidence, c’est parce que… L’approche a pour objectif de se prémunir contre les risques les plus fréquents, qui peuvent correspondre à des erreurs triviales.
+
+- Le principal objectif de la démarche qualité Web est… La qualité de l’ensemble de l’expérience utilisateur.
+
+- Une bonne pratique repose le plus souvent sur un test « unitaire », ce qui signifie… Qu’elle vise un seul problème précis de qualité pouvant faire l’objet d’une vérification objective et spécifique.
+
+- Phrases exactes concernant les feuilles de style (CSS)… 
+    - Les CSS permettent de séparer le fond (la structure et le contenu) d’une page web de sa forme (sa mise en page).
+    - Les CSS permettent de décliner le rendu selon les médias de restitution.
+
+- Qu’est-ce que la négociation de contenu… L’échange d’informations entre le client et le serveur via HTTP permettant de déterminer quel contenu répond aux attentes exprimées par l’utilisateur via le paramétrage de son navigateur.
+
+- Pour le designer, les bonnes pratiques sur l’usage de la couleur et sur les contrastes, ce sont… Des contraintes au sein desquels la créativité trouve d’autant plus à s’exprimer avec maîtrise.
+
+- Je suis responsable d’un site e-commerce. Les bonnes pratiques me permettent d’abord et avant tout… De réduire les coûts cachés liés aux abandons de commande.
+
+- L’information n’est pas véhiculée uniquement par la couleur » a pour conséquence… De veiller à ce qu’un moyen complémentaire soit systématiquement utilisé en renfort de la couleur.
+
+- Concepteur d’un nouveau service en ligne, je vais parier sur les effets de ruptures et séduire en étant original… Une large part des bonnes pratiques sont applicables dans mon cas comme pour tout autre type de projet, même si je choisis d’en ignorer certaines en connaissance de cause.
