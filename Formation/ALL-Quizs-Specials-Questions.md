@@ -24,6 +24,21 @@
 - La démarche qualité vise essentiellement l’ensemble des contextes d’usages d’un site. Nous ne savons pas ce qui se passe de l’autre côté de l’écran, autant l’accepter et essayer d’anticiper un maximum de contextes d’usage.
 - La démarche qualité repose sur la prise en compte du plus grand nombre possible de contextes d’usages.L’objectif est de considérer que les utilisateurs sont dans une infinité de contextes d’usages, ils ont des problèmes, des équipements, des compétences différentes. Ils ont des soucis, des envies, des connexions différentes. L’objectif de l’approche assurance qualité Web est de prendre un maximum de ces contextes d’usage.
 
+## II - Découvrir règles et vocabulaire
+
+- Avant la validation définitive de la commande… :
+    - Les délais de livraison doivent être indiqués.
+    - Les frais de livraisons doivent être indiqués.
+    - Les conditions de retour doivent être indiqués.
+
+- Pour les denrées alimentaires vendues en ligne il est nécessaire… D’indiquer la liste complète des ingrédients, leurs quantités respectives et le poids total.
+
+- L’adresse et les conditions de retour des produits sont indiquées.… Avant la validation définitive de la commande
+
+- Le site propose au moins un moyen de contacter s’il y a lieu… 
+    - Le modérateur des espaces publics.
+    - Le responsable des réclamations.
+
 ## III - Connaître les Règles et Objectifs
 
 - Toutes les pages doivent utiliser le protocole HTTPS…
