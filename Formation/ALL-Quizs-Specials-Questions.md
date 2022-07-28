@@ -76,7 +76,69 @@
 
 - Les vignettes et aperçus doivent être des images… Redimensionnées si nécessaire côté serveur.
 
+### Quiz 3
+
+- Après la soumission d’un formulaire l’utilisateur doit… 
+    - Pouvoir reprendre directement la navigation.
+    - Recevoir un mail de confirmation uniquement dans certains cas.
+
+- Toutes les pages utilisent le protocole HTTPS… 
+    - Est une bonne pratique pour le référencement et le classement dans les résultats de recherche.
+    - Est applicable à tous les sites, même les blogs pour accroitre la sécurité.
+
+- La nature et les caractéristiques quantifiables des produits et services sont utiles à l’utilisateur pour… 
+    - Évaluer la qualité d’un produit.
+    - Effectuer des comparaisons avec d’autres produits.
+
+- Les factures émises… Sont disponibles en ligne et téléchargeable par l’acheteur uniquement s’il en a l’usage.
+
+- Les frais de livraison estimés quand ils sont indiqués avant la validation définitive de la commande permettent…  
+    - De limiter les abandons de commandes.
+    - Faire gagner du temps à l’utilisateur.
+    - D’informer rapidement l’utilisateur sur les zones de livraison possibles.
+
+- Pouvoir spécifier une adresse de livraison différente de l’adresse de facturation… Est utile pour acheter des cadeaux en ligne et de les faire expédier directement.
+
+- La page d’accueil expose la nature des contenus et les services proposés… 
+    - Pour éviter que certains publics puissent être choqués par les contenus.
+    - Pour informer les utilisateurs et améliorer les conversions.
+
+- Pourquoi les liens externes qui ouvrent une nouvelle fenêtre ne doivent-ils pas partager d’information de contexte… 
+    - Pour éviter l’usurpation d’identité de sites.
+    - Pour éviter la communication de données personnelles.
+
+- En tant qu’utilisateur, si je dois utiliser un système d’identification tiers… (Google, Facebook, etc.) pour m’inscrire sur un site… 
+    - C’est pénalisant si je n’ai pas déjà un compte sur un de ces services.
+    - C’est gênant pour la confidentialité de mes activités personnelles.
+
+- Il est recommandé d’indiquer le matériel ou les logiciels nécessaires au fonctionnement du service avant la commande pour… 
+    - Ne pas risquer la frustration de l’utilisateur.
+    - Ne pas risquer des demandes de remboursement.
+
+- Indiquer l’auteur, la société ou l’organisation… 
+    - Est utile pour lutter contre les "fakenews".
+    - Rassure les acheteurs et permet d’ajouter de la confiance.
+
+- En tant qu’utilisateur, pouvoir faire un achat sans créer de compte… 
+    - Est un gain de rapidité et un avantage pour effectuer mes achats.
+    - Ne change rien à la sécurité de ma transaction.
+
+- Les informations relatives aux droits de copie sont disponibles depuis toutes les pages… 
+    - Pour permettre la copie et la réutilisation en respectant les droits d’auteur éventuels.
+    - Pour éviter le vol et la réutilisation de contenu protégés.
+
+- La confirmation de création de compte… Est nécessaire pour confirmer à l’utilisateur qu’un compte à son nom vient d’être créé sur le site.
+
+- Un lien présent sur toutes les pages vers les conditions de vente et/ou d’utilisation.… Est utile pour pouvoir ouvrir les conditions de vente dans un nouvel onglet.
+
+- La bonne pratique « Les horaires et tarifs de fonctionnement des services mis à la disposition des utilisateurs sont indiqués » a pour objectif… Éviter les pertes de temps, actions inutiles et déception.
+
 ## III - Connaître les Règles et Objectifs
+
+- Captcha : Processus de validation associé en général à un formulaire afin de déjouer les robots et les outils de spam. Les captchas sont des tests de Turing que seul un humain peut réussir en théorie.
+    - Les captchas graphiques demandent de reproduire l’information affichée dans une image.
+    - Les captchas logiques demandent de répondre à une question en texte libre.
+    - De nouveaux type de captchas (« nocaptcha ») reposent notamment sur l’analyse des actions de l’utilisateur au clavier et à la souris pour le différencier automatiquement d’un robot. En cas d’échec de l'identification, ils se rabattent cependant sur des tests de captchas graphiques ou audio.
 
 - Toutes les pages doivent utiliser le protocole HTTPS…
     - Pour sécuriser toutes les ressources.
