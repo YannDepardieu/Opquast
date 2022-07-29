@@ -78,6 +78,11 @@
 
 ### Quiz 3
 
+- Captcha : Processus de validation associé en général à un formulaire afin de déjouer les robots et les outils de spam. Les captchas sont des tests de Turing que seul un humain peut réussir en théorie.
+    - Les captchas graphiques demandent de reproduire l’information affichée dans une image.
+    - Les captchas logiques demandent de répondre à une question en texte libre.
+    - De nouveaux type de captchas (« nocaptcha ») reposent notamment sur l’analyse des actions de l’utilisateur au clavier et à la souris pour le différencier automatiquement d’un robot. En cas d’échec de l'identification, ils se rabattent cependant sur des tests de captchas graphiques ou audio.
+
 - Après la soumission d’un formulaire l’utilisateur doit… 
     - Pouvoir reprendre directement la navigation.
     - Recevoir un mail de confirmation uniquement dans certains cas.
@@ -85,6 +90,10 @@
 - Toutes les pages utilisent le protocole HTTPS… 
     - Est une bonne pratique pour le référencement et le classement dans les résultats de recherche.
     - Est applicable à tous les sites, même les blogs pour accroitre la sécurité.
+
+## III - Connaître les Règles et Objectifs
+
+### Quiz 1
 
 - La nature et les caractéristiques quantifiables des produits et services sont utiles à l’utilisateur pour… 
     - Évaluer la qualité d’un produit.
@@ -133,17 +142,65 @@
 
 - La bonne pratique « Les horaires et tarifs de fonctionnement des services mis à la disposition des utilisateurs sont indiqués » a pour objectif… Éviter les pertes de temps, actions inutiles et déception.
 
-## III - Connaître les Règles et Objectifs
+### Quiz 2
 
-- Captcha : Processus de validation associé en général à un formulaire afin de déjouer les robots et les outils de spam. Les captchas sont des tests de Turing que seul un humain peut réussir en théorie.
-    - Les captchas graphiques demandent de reproduire l’information affichée dans une image.
-    - Les captchas logiques demandent de répondre à une question en texte libre.
-    - De nouveaux type de captchas (« nocaptcha ») reposent notamment sur l’analyse des actions de l’utilisateur au clavier et à la souris pour le différencier automatiquement d’un robot. En cas d’échec de l'identification, ils se rabattent cependant sur des tests de captchas graphiques ou audio.
+- Les objets inclus sont dotés d’une alternative textuelle appropriée… 
+    - Pour faciliter l’accès aux utilisateur dont le navigateur ne supporte pas l’inclusion d’objets.
+    - Pour éviter aux utilisateurs de lecteurs d’écran la vocalisation d’informations inutiles.
+
+- Le changement de langue au sein d’une page… 
+    - Doit être signalé pour faciliter l’usage d’un outil de traduction automatique.
+    - Doit être signalé pour permettre aux outils d’assistance de changer de langue.
+
+- Une alternative textuelle appropriée pour les images porteuses de sens… 
+    - Est utile pour améliorer le référencement.
+    - Est utile lorsque les images sont désactivées dans le navigateur.
+    - Évite à l’utilisateur dans certains contextes d’être perturbé par des informations sur des images.
+
+- Le lien pour revenir sur la page d’accueil est utile… 
+    - Depuis toutes les pages d’erreur du site.
+    - Depuis toutes les pages de contenu du site.
+
+- Les vidéos sont déclenchées par l’utilisateur… 
+    - Pour ne pas gêner un utilisateur qui se trouve dans un espace public.
+    - Pour laisser l’utilisateur maitre de son environnement.
+
+La provenance des fichiers internes doit figurer dans le nom du fichier pour… Améliorer l’identification des fichiers sur le poste de l’utilisateur.
+
+### Quiz 3
 
 - Toutes les pages doivent utiliser le protocole HTTPS…
     - Pour sécuriser toutes les ressources.
     - Pour éviter les alertes des navigateurs relatives aux pages non sécurisées.
     - Pour garantir la sécurité des connexions aux espaces privés.
+
+- Si les champs de saisie qui le permettent sont dotés du type approprié… 
+    - C’est une aide pour la gestion des erreurs de saisie.
+    - Cela permet d’utiliser les fonctions avancées des navigateurs.
+
+- Les limites de nombre de caractères indiquées dans l’étiquette de champs de formulaire qui le nécessitent… Aident à rassurer l’utilisateur qui ne peut pas saisir toutes ses données.
+
+- Pouvoir naviguer dans un processus complexe sans perdre de données est… 
+    - Utile pour l’utilisateur qui veut copier et réutiliser des données précédemment saisies.
+    - Indispensable pour l’utilisateur qui veut corriger des données précédemment saisies.
+
+- Le copier-coller est possible dans les champs de formulaire… 
+    - Est une bonne pratique qui facilite la saisie pour tous les utilisateurs.
+    - Est une bonne pratique qui améliore la sécurité en facilitant l’usage de gestionnaires de mots de passe.
+
+- La bonne pratique « En cas de rejet des données saisies dans un formulaire, les raisons du rejet sont indiquées à l’utilisateur » a pour objectif … Éviter la frustration de l’utilisateur face à une erreur dont il n’aurait pas l’explication.
+
+- Dans quel contexte, les notifications d’erreurs dans les formulaires doivent-elles être particulièrement soignées… Dans tous les cas, même sur des formulaires très simples car les utilisateurs abandonnent facilement si la notification d’erreur n’est pas complète.
+
+- Définition : linéarisation du contenu… Résultat du rendu final d’une page Web non pas dans l’ordre apparent que l’utilisateur peut déduire de son affichage CSS à l’écran, mais dans l’ordre réel où les contenus qui la composent se trouvent dans son code source.
+
+- Permettre la copie du contenu… 
+    - Améliore la traduction automatique.
+    - Est nécessaire pour les utilisateurs en situation de handicap.
+
+- Les éléments sous forme de liste… 
+    - Sont balisés de façon appropriée dans le code source pour améliorer la sémantique.
+    - Sont balisés de façon appropriée dans le code source pour faciliter la compréhension avec les outils d’assistance.
 
 ## IV - Mise en Oeuvre
 
